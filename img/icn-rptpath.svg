@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="641px" height="95px" viewBox="0 0 641 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 3.7 (28138) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-rptpath</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage-desktop" transform="translate(-398.000000, -1342.000000)">
+            <g id="section.workflow" transform="translate(0.000000, 900.000000)">
+                <g id="div.content" transform="translate(320.000000, 128.000000)">
+                    <g id="div.graph" transform="translate(16.000000, 194.000000)">
+                        <g id="div.repeat" transform="translate(63.000000, 120.000000)">
+                            <g id="icn-rptpath">
+                                <path d="M638.792057,0 L638.792057,77.0064932 C638.792057,77.0064932 638.792059,93.5710068 623.227543,93.5710078 C607.663026,93.5710088 19.7815605,93.5710078 19.7815605,93.5710078 C19.7815605,93.5710078 3.00000099,93.5788952 3.00000031,76.7894476 C2.99999962,60 3.00000031,71.9997184 3.00000031,71.9997184" id="Path-7" stroke="#979797"></path>
+                                <polyline id="Stroke-3" stroke="#7B7B7B" stroke-width="2" transform="translate(3.000000, 71.000000) rotate(-90.000000) translate(-3.000000, -71.000000) " points="1 68 5 71 1 74"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
